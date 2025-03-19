@@ -4,8 +4,8 @@ Ce projet permet d'identifier des motifs dans des séquences de caractères en u
 
 ## Installation
 
-1. Clonez le dépôt :
-  '''sh
-  git clone https://github.com/OctaveCADOZ/IDMotifs.git
-  cd IDMotifs
+1. **Clonez le dépôt** :
+   ```sh
+   git clone https://github.com/OctaveCADOZ/IDMotifs.git
+   cd IDMotifs
 3. 
